@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="562px" height="174px" viewBox="0 0 562 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>BTree</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BTree">
+            <g id="B+Tree">
+                <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(267.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#F4645F" x="0" y="0" width="50" height="42" rx="4"></rect>
+                    <text id="23" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="17" y="27">23</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-2" stroke-width="1" fill-rule="evenodd" transform="translate(380.000000, 64.000000)">
+                    <rect id="Rectangle" fill="#F4645F" x="0" y="0" width="50" height="42" rx="4"></rect>
+                    <text id="47" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="17" y="27">47</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy" stroke-width="1" fill-rule="evenodd" transform="translate(108.000000, 65.000000)">
+                    <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                    <text id="12" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="17" y="27">12</tspan>
+                    </text>
+                    <text id="15" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="58" y="27">15</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-3" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 132.000000)">
+                    <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                    <text id="1" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="22" y="27">1</tspan>
+                    </text>
+                    <text id="8" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="62" y="27">8</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-4" stroke-width="1" fill-rule="evenodd" transform="translate(108.000000, 132.000000)">
+                    <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                    <text id="12" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="19" y="27">12</tspan>
+                    </text>
+                    <text id="13" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="59" y="27">13</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-5" stroke-width="1" fill-rule="evenodd" transform="translate(214.000000, 132.000000)">
+                    <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                    <text id="15" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="19" y="27">15</tspan>
+                    </text>
+                    <text id="22" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="59" y="27">22</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-6" stroke-width="1" fill-rule="evenodd" transform="translate(322.000000, 132.000000)">
+                    <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                    <text id="22" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="19" y="27">22</tspan>
+                    </text>
+                    <text id="28" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="59" y="27">28</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-7" stroke-width="1" fill-rule="evenodd" transform="translate(430.000000, 132.000000)">
+                    <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="132" height="42" rx="4"></rect>
+                    <text id="47" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="19" y="27">47</tspan>
+                    </text>
+                    <text id="52" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="59" y="27">52</tspan>
+                    </text>
+                    <text id="82" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="99" y="27">82</tspan>
+                    </text>
+                </g>
+                <path d="M271,35 L155,65" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M115,100 L48.5,132.5" id="Line-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M150,100 L155.5,131.5" id="Line-3" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M195,99 L251.5,131.5" id="Line-4" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M313,36 L403,63" id="Line-5" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M386.5,99.5 L361.5,130.5" id="Line-6" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M426,101 L483,132" id="Line-6-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
