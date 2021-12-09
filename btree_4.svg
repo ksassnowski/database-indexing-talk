@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="562px" height="217px" viewBox="0 0 562 217" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>btree_4</title>
+    <g id="btree_4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B+Tree">
+            <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(267.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F4645F" x="0" y="0" width="50" height="42" rx="4"></rect>
+                <text id="23" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="17" y="26">23</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" stroke-width="1" fill-rule="evenodd" transform="translate(380.000000, 64.000000)">
+                <rect id="Rectangle" fill="#F4645F" x="0" y="0" width="50" height="42" rx="4"></rect>
+                <text id="47" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="17" y="26">47</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" stroke-width="1" fill-rule="evenodd" transform="translate(108.000000, 65.000000)">
+                <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                <text id="12" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="17" y="26">12</tspan>
+                </text>
+                <text id="15" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="58" y="26">15</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 132.000000)">
+                <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                <text id="1" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="22" y="26">1</tspan>
+                </text>
+                <text id="8" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="62" y="26">8</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" stroke-width="1" fill-rule="evenodd" transform="translate(108.000000, 132.000000)">
+                <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                <text id="12" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="19" y="26">12</tspan>
+                </text>
+                <text id="13" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="59" y="26">13</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" stroke-width="1" fill-rule="evenodd" transform="translate(214.000000, 132.000000)">
+                <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                <text id="15" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="19" y="26">15</tspan>
+                </text>
+                <text id="22" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="59" y="26">22</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" stroke-width="1" fill-rule="evenodd" transform="translate(322.000000, 132.000000)">
+                <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="96" height="42" rx="4"></rect>
+                <text id="23" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="19" y="26">23</tspan>
+                </text>
+                <text id="28" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="59" y="26">28</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" stroke-width="1" fill-rule="evenodd" transform="translate(430.000000, 132.000000)">
+                <rect id="Rectangle-Copy" fill="#F4645F" x="0" y="0" width="132" height="42" rx="4"></rect>
+                <text id="47" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="19" y="26">47</tspan>
+                </text>
+                <text id="52" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="59" y="26">52</tspan>
+                </text>
+                <text id="82" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="99" y="26">82</tspan>
+                </text>
+            </g>
+            <line x1="271" y1="35" x2="155" y2="65" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="115" y1="100" x2="48.5" y2="132.5" id="Line-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="150" y1="100" x2="155.5" y2="131.5" id="Line-3" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="195" y1="99" x2="251.5" y2="131.5" id="Line-4" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="313" y1="36" x2="403" y2="63" id="Line-5" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="386.5" y1="99.5" x2="361.5" y2="130.5" id="Line-6" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="426" y1="101" x2="483" y2="132" id="Line-6-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+        </g>
+        <text id="Root-Node" font-family="Helvetica" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="330" y="25">Root Node</tspan>
+        </text>
+        <text id="Branch-Nodes" font-family="Helvetica" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="243" y="89">Branch Nodes</tspan>
+        </text>
+        <text id="Leaf-Nodes" font-family="Helvetica" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="243" y="200">Leaf Nodes</tspan>
+        </text>
+    </g>
+</svg>
